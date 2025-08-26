@@ -18,4 +18,4 @@ Foi criado com o objetivo de reforçar minha lógica de programação, manipula�
 
 ## 🎯 Objetivo do projeto
 
-Este projeto faz parte da minha jornada de aprofundamento em **JavaScript e Node.js**, focando em construir aplicações funcionais e reforçar boas práticas no desenvolvimento web.
+Este projeto faz parte da minha jornada de aprofundamento em **JavaScript e Node.js**, focando em construir aplicações funcionais e reforçar boas práticas no desenvolvimento web..
